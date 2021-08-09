@@ -1,0 +1,21 @@
+pseudo code
+{
+Initial Function()
+{
+  //Sample Code
+}
+<<<<<<< HEAD
+{
+Feature1 Function()
+{
+  //Sample Code
+}
+=======
+Feature2()
+{
+  //Sample Code
+>>>>>>> f2
+}
+}
+
+
